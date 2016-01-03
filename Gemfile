@@ -46,6 +46,3 @@ group :development do
 end
 
 gem 'rails_12factor', group: :production
-
-source "https://rubygems.org"
-ruby "2.1.1"
