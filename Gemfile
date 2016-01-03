@@ -47,4 +47,5 @@ end
 
 gem 'rails_12factor', group: :production
 
-ruby "2.3.0p0"
+source "https://rubygems.org"
+ruby "2.1.1"
